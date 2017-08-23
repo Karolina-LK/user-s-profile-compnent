@@ -1,0 +1,121 @@
+
+/** {
+  border: solid blue 1px; for me to see site structure
+} */
+
+body{
+  height: 100%;
+  padding: 10px;
+  margin: 10px;
+ }
+
+.frame{
+  max-width: 100%;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #160284 !important;
+ }
+
+.inside{
+  max-width: 98% !important;
+  background-color: #fff;
+  border: solid grey 3px;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 15px;
+ }
+
+.buttonSharing{
+  float: right;
+  border-color: #fff !important;
+ }
+
+.glyphicon-share{
+  color: #F99304;
+  padding: 2px;
+  font-size: 20px !important;
+  position: fixed; 
+}
+
+.img-circle{
+  border-radius: 50%;
+  width: 140px;
+  height: 120px;
+}
+
+.host{
+  margin: 0;
+  padding: 0;
+ }
+
+.invisibleButton{
+  padding: 10px;
+  border-color: #fff !important;
+  background-color: white !important;
+  border: 0 !important;
+}
+
+.heart{
+  font-size: 30px;
+  margin: 10px 1px;
+}
+
+.hostName{
+  color: #160284;
+  font-size: 36px !important;
+}
+
+.digits{
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.likes, .toFollow, .followPeople{
+  text-align: center;
+}
+
+.likings, .followingNo, .followers{
+  color: #F99304;
+}
+
+.btnFollow{
+  margin: 20px 2px 5px 2px;
+  background-color: #F99304 !important;
+  border-color: #F99304 !important;
+  font-weight: bold !important;
+  font-size: 100% !important;
+  padding: 15px !important;
+  border-radius: 30px !important;  
+}
+
+.hidingComments{
+  text-align: left;
+  text-decoration: underline;
+  color: #F99304;
+  margin: 15px;
+  font-size: 30px;
+}
+
+.commentatorName{
+  color: #160284;
+ }
+
+.addComment{
+  max-width: 95%;
+  background-color: #fff !important;
+  color: grey !important;
+  font-size: 20px !important;
+  text-align: left !important;
+  padding: 10px !important;
+}
+
+.media-date{ 
+  text-align: right;
+}
+
+#myDIV{
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  margin-top:20px;
+}
